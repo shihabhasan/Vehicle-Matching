@@ -9,7 +9,7 @@ Here is a guide to run the vehicle matching program. This guide will help you se
 *Requirements*
 First, ensure you have the necessary packages installed. You can install them using pip and the provided requirements.txt file.Install the required libraries by running `pip install -r requirements.txt`
    
-Modify the .env file for the postgresql authentication (though .env in the git repository it is not recommended, this file is provided to use the LLM API key - which will be removed later).
+Modify the .env file for the postgresql authentication & use GROQ_API_KEY which is provided by email.
 
 *Execution*
 To run the program, execute the following command in your terminal:
